@@ -6,9 +6,9 @@ You can connect with me [here](https://matheusaraujo.github.io).
 
 [![streak](https://github-readme-streak-stats.herokuapp.com?user=matheusaraujo&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=matheusaraujo&show_icons=true&locale=en&layout=compact)
-
 ![stats](https://github-readme-stats.vercel.app/api?username=matheusaraujo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=00000000)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=matheusaraujo&show_icons=true&locale=en&layout=compact)
 
 ---
 
