@@ -8,7 +8,7 @@ You can connect with me [here](https://matheusaraujo.github.io).
 
 ![stats](https://github-readme-stats.vercel.app/api?username=matheusaraujo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=00000000)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=matheusaraujo&show_icons=true&locale=en&layout=compact&theme=transparent)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=matheusaraujo&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=20)
 
 ---
 
