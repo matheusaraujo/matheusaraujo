@@ -1,7 +1,5 @@
 ## Hi there, I'm Matheus!
 
-### A software engineer from Brazil 🇧🇷 living in The Netherlands 🇳🇱
-
 You can connect with me [here](https://matheusaraujo.github.io).
 
 [![streak](https://github-readme-streak-stats.herokuapp.com?user=matheusaraujo&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
