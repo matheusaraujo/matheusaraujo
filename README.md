@@ -6,7 +6,7 @@ You can connect with me [here](https://matheusaraujo.github.io).
 
 ![stats](https://github-readme-stats-two-taupe-22.vercel.app/api?username=matheusaraujo&&show_icons=true&bg_color=00000000)
 
-![top-langs](https://github-readme-stats-two-taupe-22.vercel.app/api/top-langs?username=matheusaraujo&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=20)
+![top-langs](https://github-readme-stats-two-taupe-22.vercel.app/api/top-langs?username=matheusaraujo&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10)
 
 ---
 
