@@ -1,6 +1,18 @@
-## Hi there, I'm Matheus!
+## Hey there 👋, I'm Matheus!
 
-You can connect with me [here](https://matheusaraujo.github.io).
+<a href="https://github.com/matheusaraujo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/matheussaraujo" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@matheus.saraujo" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.goodreads.com/user/show/155948742-matheus-araujo" target="_blank">
+<img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white alt=goodreads style="margin-bottom: 5px;">
+</a>
+</a>
 
 | Stats | Streak | Top Languages |
 |--------|-------|---------------|
