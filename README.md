@@ -16,7 +16,7 @@
 
 | Stats | Streak | Top Languages |
 |--------|-------|---------------|
-| ![stats](https://github-readme-stats-two-taupe-22.vercel.app/api?username=matheusaraujo&&show_icons=true&bg_color=00000000)| [![streak](https://github-readme-streak-stats-jade-ten.vercel.app?user=matheusaraujo&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats) | ![top-langs](https://github-readme-stats-two-taupe-22.vercel.app/api/top-langs?username=matheusaraujo&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=6) |
+| ![stats](https://github-readme-stats-two-taupe-22.vercel.app/api?username=matheusaraujo&&show_icons=true&bg_color=00000000&include_all_commits=true)| [![streak](https://github-readme-streak-stats-jade-ten.vercel.app?user=matheusaraujo&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats) | ![top-langs](https://github-readme-stats-two-taupe-22.vercel.app/api/top-langs?username=matheusaraujo&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=6) |
 
 ---
 
